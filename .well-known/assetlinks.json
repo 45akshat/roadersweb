@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.roaders.roaderspartners",
+      "sha256_cert_fingerprints": [
+        "8F:87:23:43:51:5F:5D:97:34:5B:92:B7:F1:68:57:AB:C5:10:67:FA:82:04:DC:C4:82:26:DF:69:7D:CE:AA:EA"
+      ]
+    }
+  }
+]
